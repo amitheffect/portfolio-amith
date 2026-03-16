@@ -1,0 +1,13 @@
+189: <div><p class="text-3xl font-serif italic text-white">5+</p><p class="text-[10px] uppercase tracking-widest text-slate-500">Years Creative Exp</p></di... [truncated] ...>Years Creative Exp</p></div>
+
+190: <div class="flex flex-col items-center text-center"><p class="text-3xl font-serif italic text-white">Cyber-sec</p><p class="text-[10px] uppercase trac... [truncated] ...xpRZOh3PEzAQA="/></div></div>
+
+191: </div><div class="flex items-center gap-6 pt-4">
+192: <img alt="After Effects" class="h-8 w-auto opacity-40 hover:opacity-100 transition-opacity duration-300" src="data:image/png;base64,iVBORw0KGgoAAAANSU... [truncated] ...AwvdO5LgAAAABJRU5ErkJggg=="/>
+
+193: <img alt="Premiere Pro" class="h-8 w-auto opacity-40 hover:opacity-100 transition-opacity duration-300" src="data:image/png;base64,iVBORw0KGgoAAAANSUh... [truncated] ...A6MDDCXLKWAAAAAElFTkSuQmCC"/>
+
+194: <img alt="Figma" class="h-8 w-auto opacity-40 hover:opacity-100 transition-opacity duration-300" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4... [truncated] ...Awq7aNRgAAAABJRU5ErkJggg=="/>
+
+195: </div></div>
+196: <div class="lg:col-span-7 space-y-10 pt-2"><div class="">
